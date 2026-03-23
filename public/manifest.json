@@ -1,0 +1,20 @@
+{
+  "name": "TruthLens — AI Misinformation Platform",
+  "short_name": "TruthLens",
+  "description": "Real-time AI fake news detection and misinformation intelligence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["news", "utilities"],
+  "screenshots": []
+}
